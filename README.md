@@ -30,4 +30,3 @@ I'm a software engineer based in Buena Park, CA. I'm passionate about building s
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/ronaldpaek/)
-- [Twitter](https://twitter.com/ronaldpaek)
