@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Ronald!
 
-I'm a software engineer based in Buena Park, CA. I'm passionate about building scalable and high-performance applications. I specialize in frontend development using JavaScript, React, and HTML/CSS.
+I'm a software engineer based in Buena Park, CA. I specialize in frontend development using JavaScript, React, and HTML/CSS.
 
 ## My GitHub stats
 
