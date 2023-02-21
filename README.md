@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ronaldpaek/ronaldpaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm Ronald!
+### Hi there 👋
 
 ![Ronald_swe_banner](https://user-images.githubusercontent.com/95109313/220276263-99aa9fb1-8d94-4ede-8a0f-d8bbcec1586b.png)
 
