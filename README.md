@@ -13,19 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ronald_swe_banner](https://user-images.githubusercontent.com/95109313/220276263-99aa9fb1-8d94-4ede-8a0f-d8bbcec1586b.png)
+<!-- <p align="center"> -->
+  <img src="https://user-images.githubusercontent.com/95109313/220276263-99aa9fb1-8d94-4ede-8a0f-d8bbcec1586b.png" alt="profile banner"/>
+<!-- </p> -->
 
 
-A Software Engineer based in Los Angeles, CA. I specialize in frontend development using React, JavaScript, and HTML/CSS.
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaldpaek&show_icons=true&theme=dark" style="width: 49%;" alt="user stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldpaek&layout=compact" style="width: 49%;" alt="top langs"/>
+</div>
 
-## My GitHub stats
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldpaek&show_icons=true&theme=dark)
-
-## My top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldpaek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/ronaldpaek/)
