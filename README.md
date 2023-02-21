@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Ronald!
 
-I'm a software engineer based in Buena Park, CA. I specialize in frontend development using JavaScript, React, and HTML/CSS.
+![Ronald_swe_banner](https://user-images.githubusercontent.com/95109313/220276263-99aa9fb1-8d94-4ede-8a0f-d8bbcec1586b.png)
+
+
+I'm a Software Engineer based in Los Angeles, CA. I specialize in frontend development using React, JavaScript, and HTML/CSS.
 
 ## My GitHub stats
 
