@@ -13,12 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 ![Ronald_swe_banner](https://user-images.githubusercontent.com/95109313/220276263-99aa9fb1-8d94-4ede-8a0f-d8bbcec1586b.png)
 
 
-I'm a Software Engineer based in Los Angeles, CA. I specialize in frontend development using React, JavaScript, and HTML/CSS.
+A Software Engineer based in Los Angeles, CA. I specialize in frontend development using React, JavaScript, and HTML/CSS.
 
 ## My GitHub stats
 
