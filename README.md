@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
   <img src="https://user-images.githubusercontent.com/95109313/220276263-99aa9fb1-8d94-4ede-8a0f-d8bbcec1586b.png" alt="profile banner"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldpaek&layout=compact" alt="top langs"/>
-
+  <img src="https://github.r2v.ch/codewars?user=ronaldpaek&top_languages=true"/>
